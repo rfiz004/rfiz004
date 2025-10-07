@@ -55,10 +55,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rfiz004&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</p>
-
 <!-- Proudly created with a mix of GPRM and custom edits ✨ -->
