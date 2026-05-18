@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arefeh</h1>
-<h3 align="center">Exploring the world of code — learning Telegram bot development, AI modeling, and creative web design with WordPress~</h3>
+<h3 align="center">Exploring the world of code — learning Telegram bot development, AI modeling, and creative web design~</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
